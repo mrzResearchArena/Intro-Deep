@@ -2,3 +2,8 @@ CrossEntropy / Loss:
 1. (Lecture #31) https://www.udemy.com/course/data-science-deep-learning-in-python/learn/lecture/14919814#questions
 2. https://towardsdatascience.com/understanding-bernoulli-and-binomial-distributions-a1eef4e0da8f
 
+Backpropagation:
+1. Part #1: lazy-programmer
+2. Part #2: lazy-programmer
+3. Part #3: lazy-programmer
+
